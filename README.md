@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardobrennand&label=Profile%20views&color=0e75b6&style=flat" alt="eduardobrennand" /> </p>
 
-- 🎓I'm graduating in Computer Science @ [UNIFESO](https://www.unifeso.edu.br/cursos/graduacao/ciencia-da-computacao)
+- 🎓 I'm graduating in Computer Science @ [UNIFESO](https://www.unifeso.edu.br/cursos/graduacao/ciencia-da-computacao)
+
+- 🔭 I'm currently looking for my first job experience as an Intern or Junior Developer.
 
 - 🌱 I’m currently learning **React, TypeScript, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eduardobrennand](https://github.com/eduardobrennand)
 
-- 📫 How to reach me **eduardolirabrennand@gmail.com**
+- 📫 Reach me at **eduardolirabrennand@gmail.com**
 
 - ⚡ Fun fact **I'm one of the few programmers that don't drink coffee. 🤔**
 
