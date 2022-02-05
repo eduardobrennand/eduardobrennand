@@ -5,7 +5,7 @@
 
 - 🎓 I'm graduating in Computer Science @ [UNIFESO](https://www.unifeso.edu.br/cursos/graduacao/ciencia-da-computacao)
 
-- 🔭 I'm currently looking for my first job experience as an Intern or Junior Developer.
+- 🔭 I'm looking for my first job experience as an Intern or Junior Developer.
 
 - 🌱 I’m currently learning **React, TypeScript, Nodejs**
 
